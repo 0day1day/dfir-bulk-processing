@@ -1,0 +1,9 @@
+# Format is: hive\tkey\theader
+# Where:
+#   Hive is one of SYSTEM, SOFTWARE, SAM, SECURITY, NTUSER
+#   Key is the registry key to dump
+#   Header is the user defined output header to place at the top of the output
+#
+# If the hive is NTUSER, then that key will be dumped for all users of the system
+
+SYSTEM

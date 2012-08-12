@@ -1,0 +1,4 @@
+# Tab delimited file.
+# First column is the image name, second column is the output path *folder*
+C:\WIP\dfir\GSI001.E01	C:\WIP
+C:\WIP\dfir\GSI002.E01	C:\WIP

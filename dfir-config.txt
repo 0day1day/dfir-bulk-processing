@@ -1,0 +1,6 @@
+# dfir config.txt
+# The first argument is the name of the program as used by the tool - do NOT
+# change these.
+subinacl = C:\Program Files (x86)\Windows Resource Kits\Tools\subinacl
+ripxp = C:\Program Files (x86)\RegRipper\ripxp
+mip4 = C:/Program Files (x86)/GetData\Mount Image Pro v4/MIP4
